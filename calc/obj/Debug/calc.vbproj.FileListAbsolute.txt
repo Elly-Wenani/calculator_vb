@@ -1,0 +1,48 @@
+D:\ASGN\VB\calc\calc\bin\Debug\calc.exe.config
+D:\ASGN\VB\calc\calc\bin\Debug\calc.exe
+D:\ASGN\VB\calc\calc\bin\Debug\calc.pdb
+D:\ASGN\VB\calc\calc\bin\Debug\calc.xml
+D:\ASGN\VB\calc\calc\obj\Debug\calc.vbprojAssemblyReference.cache
+D:\ASGN\VB\calc\calc\obj\Debug\calc.Form1.resources
+D:\ASGN\VB\calc\calc\obj\Debug\calc.Resources.resources
+D:\ASGN\VB\calc\calc\obj\Debug\calc.vbproj.GenerateResource.cache
+D:\ASGN\VB\calc\calc\obj\Debug\calc.vbproj.CoreCompileInputs.cache
+D:\ASGN\VB\calc\calc\obj\Debug\calc.exe
+D:\ASGN\VB\calc\calc\obj\Debug\calc.xml
+D:\ASGN\VB\calc\calc\obj\Debug\calc.pdb
+D:\ASGN\VB\calc - Copy\calc\bin\Debug\calc.exe.config
+D:\ASGN\VB\calc - Copy\calc\bin\Debug\calc.exe
+D:\ASGN\VB\calc - Copy\calc\bin\Debug\calc.pdb
+D:\ASGN\VB\calc - Copy\calc\bin\Debug\calc.xml
+D:\ASGN\VB\calc - Copy\calc\obj\Debug\calc.vbprojAssemblyReference.cache
+D:\ASGN\VB\calc - Copy\calc\obj\Debug\calc.Form1.resources
+D:\ASGN\VB\calc - Copy\calc\obj\Debug\calc.Resources.resources
+D:\ASGN\VB\calc - Copy\calc\obj\Debug\calc.vbproj.GenerateResource.cache
+D:\ASGN\VB\calc - Copy\calc\obj\Debug\calc.vbproj.CoreCompileInputs.cache
+D:\ASGN\VB\calc - Copy\calc\obj\Debug\calc.exe
+D:\ASGN\VB\calc - Copy\calc\obj\Debug\calc.xml
+D:\ASGN\VB\calc - Copy\calc\obj\Debug\calc.pdb
+D:\ASGN\VB\mess\calc\bin\Debug\calc.exe.config
+D:\ASGN\VB\mess\calc\bin\Debug\calc.exe
+D:\ASGN\VB\mess\calc\bin\Debug\calc.pdb
+D:\ASGN\VB\mess\calc\bin\Debug\calc.xml
+D:\ASGN\VB\mess\calc\obj\Debug\calc.vbprojAssemblyReference.cache
+D:\ASGN\VB\mess\calc\obj\Debug\calc.Form1.resources
+D:\ASGN\VB\mess\calc\obj\Debug\calc.Resources.resources
+D:\ASGN\VB\mess\calc\obj\Debug\calc.vbproj.GenerateResource.cache
+D:\ASGN\VB\mess\calc\obj\Debug\calc.vbproj.CoreCompileInputs.cache
+D:\ASGN\VB\mess\calc\obj\Debug\calc.exe
+D:\ASGN\VB\mess\calc\obj\Debug\calc.xml
+D:\ASGN\VB\mess\calc\obj\Debug\calc.pdb
+C:\Users\SERVER\Desktop\Repos\VB Cal\VB Cal\calc\bin\Debug\calc.exe.config
+C:\Users\SERVER\Desktop\Repos\VB Cal\VB Cal\calc\bin\Debug\calc.exe
+C:\Users\SERVER\Desktop\Repos\VB Cal\VB Cal\calc\bin\Debug\calc.pdb
+C:\Users\SERVER\Desktop\Repos\VB Cal\VB Cal\calc\bin\Debug\calc.xml
+C:\Users\SERVER\Desktop\Repos\VB Cal\VB Cal\calc\obj\Debug\calc.vbprojAssemblyReference.cache
+C:\Users\SERVER\Desktop\Repos\VB Cal\VB Cal\calc\obj\Debug\calc.Form1.resources
+C:\Users\SERVER\Desktop\Repos\VB Cal\VB Cal\calc\obj\Debug\calc.Resources.resources
+C:\Users\SERVER\Desktop\Repos\VB Cal\VB Cal\calc\obj\Debug\calc.vbproj.GenerateResource.cache
+C:\Users\SERVER\Desktop\Repos\VB Cal\VB Cal\calc\obj\Debug\calc.vbproj.CoreCompileInputs.cache
+C:\Users\SERVER\Desktop\Repos\VB Cal\VB Cal\calc\obj\Debug\calc.exe
+C:\Users\SERVER\Desktop\Repos\VB Cal\VB Cal\calc\obj\Debug\calc.xml
+C:\Users\SERVER\Desktop\Repos\VB Cal\VB Cal\calc\obj\Debug\calc.pdb
